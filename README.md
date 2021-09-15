@@ -7,3 +7,4 @@ Day 002- Odd or even
 
 Day 003- Maximum of two numbers
 
+Day 004- N natural numbers
